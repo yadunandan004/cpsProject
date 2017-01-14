@@ -1,0 +1,19 @@
+{
+  "name": "cps_project",
+  "version": "1.0.0",
+  "description": "project to analyze transportation pattern",
+  "main": "busStop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "YaduNandan",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "node-dom": "^0.1.0",
+    "request": "^2.79.0",
+    "socket.io": "^1.7.2"
+  }
+}

@@ -1,0 +1,4 @@
+#map{
+	length:window.length/2;
+	width:window.width;
+}
